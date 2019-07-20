@@ -5,7 +5,7 @@ author: bagaking <kinghand@foxmail.com>
 status: Draft
 type: Standards Track
 created: 2019-07-21
-requires: dgip-2
+requires: dgip-12
 ---
 
 ## Simple Summary
@@ -36,6 +36,8 @@ info(_symbol: string): Promise<{
   supply: string; // BigInt
 }>
 ```
+
+*Note* decimals means the number of decimals of the fungible token - e.g. `8`, means to divide the token amount by `100000000` to get its user representation.
 
 ### balanceOf
 
@@ -100,8 +102,8 @@ transfer(_to: number, _value: string): Promise<{
 ### burn
 
 Burn `_value` amount of fungible tokens with symbol `_symbol` to address `_from`, and MUST fire the `Burn` event.  
-The function SHOULD `throw` if the message caller's account balance does not have enough tokens to burn.
-Issue of 0 values SHOULD `throw`.  
+The function SHOULD `throw` if the message caller's account balance does not have enough tokens to burn.  
+Issues of 0 values SHOULD `throw`.  
 
 ```typescript
 burn(_symbol: string, _from: number, _value: string): Promise<{
