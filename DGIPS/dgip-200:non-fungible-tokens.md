@@ -14,7 +14,7 @@ A standard interface for non-fungible tokens.
 
 ## Abstract
 
-The following standard allows for the implementation of a standard API for non-fungible tokens(nfts) within an dgame center. This standard provides basic functionality to issue/transfer/burn/occupy/release nfts.
+The following standard allows for the implementation of a standard API for non-fungible tokens(nfts) within a dgame center. This standard provides basic functionality to issue/transfer/burn/occupy/release nfts.
 
 ## NFT-ID
 

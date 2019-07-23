@@ -14,8 +14,8 @@ A standard interface for fungible tokens.
 
 ## Abstract
 
-The following standard allows for the implementation of a standard API for fungible tokens within an dgame center.
-This standard provides basic functionality to transfer tokens.
+The following standard allows for the implementation of a standard API for fungible-tokens(fts) within an dgame center.
+This standard provides basic functionality to create/issue/transfer/burn tokens.
 
 ## Methods
 

@@ -37,7 +37,7 @@ The next 4 decimal bits, represents the game id, maximum value will be 10 Thousa
 
 - sequence (3 decimal bits)
 The last 3 decimal bits, sequence within the game, maximum value will be 1 Thousand. It can be defined by the corresponding game, for system account's usage.  
-In particular, when the sequence is equal to 0, the `default dgid` for this game.  
+In particular, when the sequence is equal to 0, it represents the `default dgid` for this game.  
   > e.p. for game `game_id:00001`, its default dgig should be `dgid:10001000`
 
 ### User Domain
