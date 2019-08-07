@@ -30,11 +30,11 @@
 
 ### [1000] [standard procedure](./dgip-1000:standard-procedure.md)
 
-### [1001] [meta operations](./dgip-1000:meta-operation.md)
+### [1001] [meta operations](./dgip-1001:meta-operation.md)
 
 ### [1002] reducer context
 
-### [1003] reducer
+### [1003] [reducer](./dgip-1003:reducer.md)
 
 #### [1011] [procedure operation merge](./dgip-1011:procedure-operation-merge.md)
 
