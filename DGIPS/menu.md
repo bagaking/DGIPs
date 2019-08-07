@@ -18,13 +18,17 @@
 
 ### [100] [fungible-tokens](./dgip-100:fungible-tokens.md)
 
+#### [101] quantity
+
 ### [200] [non-fungible-tokens](./dgip-200:non-fungible-tokens.md)
+
+#### [201] bag-entry
 
 #### [210] [ft-bags](./ft-bags.md)
 
 ## [1000-1999] Kernal
 
-### [1000] meta operations
+### [1000] [meta operations](./dgip-1000:meta-operations.md)
 
 ### [1010] standard procedure
 
@@ -64,7 +68,7 @@
 
 ### [2002] withdraw
 
-### [2100] Exchange
+### [2100] exchange
 
 ## [3000-3999] Interfaces
 
