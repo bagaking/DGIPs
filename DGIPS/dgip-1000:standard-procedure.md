@@ -29,4 +29,3 @@ Based on the five metas mentioned in the [dgip-1000:meta-operations](./dgip-1000
 - [1023] update procedure
 - [1024] factor procedure
 - [1025] handover procedure
-

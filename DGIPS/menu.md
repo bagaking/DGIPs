@@ -28,31 +28,33 @@
 
 ## [1000-1999] Kernal
 
-### [1000] [meta operations](./dgip-1000:meta-operations.md)
+### [1000] [standard procedure](./dgip-1000:standard-procedure.md)
 
-### [1010] [standard procedure](./dgip-1010:standard-procedure.md)
+### [1001] [meta operations](./dgip-1000:meta-operation.md)
 
-#### [1011] create procedure
+### [1002] reducer context
 
-#### [1012] delete procedure
+### [1010] procedure operation
 
-#### [1013] update procedure
+#### [1011] procedure operation merge
 
-#### [1014] factor procedure
+#### [1012] procedure operation prepare
 
-#### [1015] handover procedure
+#### [1013] procedure operation commit
 
-### [1100] procedure reducer
+#### [1014] procedure operation abort
 
-#### [1101] reducer merge
+#### [1020] procedure records
 
-#### [1102] reducer prepare
+#### [1021] create procedure
 
-#### [1103] reducer commit
+#### [1022] delete procedure
 
-#### [1104] reducer abort
+#### [1023] handover procedure
 
-### [1130] procedure record
+#### [1024] update procedure
+
+#### [1025] factor procedure
 
 ### [1200] tconv methods
 
