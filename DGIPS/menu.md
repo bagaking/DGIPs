@@ -34,7 +34,7 @@
 
 ### [1002] reducer context
 
-### [1010] procedure operation
+### [1003] reducer
 
 #### [1011] [procedure operation merge](./dgip-1011:procedure-operation-merge.md)
 
