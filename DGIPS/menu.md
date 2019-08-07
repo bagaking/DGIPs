@@ -30,7 +30,7 @@
 
 ### [1000] [meta operations](./dgip-1000:meta-operations.md)
 
-### [1010] standard procedure
+### [1010] [standard procedure](./dgip-1010:standard-procedure.md)
 
 #### [1011] create procedure
 
