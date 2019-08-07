@@ -6,7 +6,9 @@
 
 ## [11-99] Role
 
-### [12] [dgame-center](./dgip-12:dgame-center.md)
+### [11] [dgcenter](./dgip-11:dgcenter.md)
+
+### [12] [dgame](./dgip-12:dgame.md)
 
 ### [13] [wallet-user](./dgip-13:wallet-user.md)
 
