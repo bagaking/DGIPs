@@ -1,6 +1,6 @@
 ---
 dgip: 1000
-title: Meta Operations
+title: Meta Operation
 author: bagaking <kinghand@foxmail.com>
 status: Draft
 type: Kernal
