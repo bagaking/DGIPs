@@ -36,7 +36,7 @@
 
 ### [1010] procedure operation
 
-#### [1011] procedure operation merge
+#### [1011] [procedure operation merge](./dgip-1011:procedure-operation-merge.md)
 
 #### [1012] procedure operation prepare
 
