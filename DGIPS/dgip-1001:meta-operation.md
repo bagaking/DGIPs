@@ -153,3 +153,9 @@ There are **1** cleary defined `complex-meta`:
             };
         }
         ```
+
+## Meta Mutual Exclusion
+
+1. `create` and `delete` are mutually exclusive.
+2. cannot have any `handover`, `update`, `factor` operation before create.
+3. cannot have any `handover`, `update`, `factor` operation after delete.
